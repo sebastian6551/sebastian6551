@@ -27,5 +27,3 @@ I have experience working across the full software development lifecycle, from i
 - Collaborative mindset, working effectively in agile teams.
 
 ### 📫 Let's [Connect](https://www.linkedin.com/in/sbstian)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian6551&layout=compact&card_width=500)
