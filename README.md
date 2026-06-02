@@ -1,18 +1,22 @@
-# 💻 Hello, I'm Sebastian Estupiñan
+# About Me
 
-**Frontend Developer** with a Full-Stack background from Colombia 🇨🇴, with +2 years of experience building web applications using **React** and **JavaScript**, focused on creating responsive, user-centered interfaces.
+**Software Engineer** with a Full-Stack background from Colombia 🇨🇴, with nearly 3 years of experience building web applications using **React** and **JavaScript**, focused on creating responsive, user-centered interfaces.
 
 I have experience working across the full software development lifecycle, from implementing features and integrating REST APIs to improving usability and maintaining clean, scalable codebases.
 
 ## Tech Stack
 
-**Frontend:** React · JavaScript (ES6+) · HTML5 & CSS3 · AngularJS
+**Programming Languages:** JavaScript (ES6+) · TypeScript · Java · Python.
 
-**Backend:** Node.js · Django REST Framework · Java · Python
+**Frameworks & Libraries:** React · Node.js · Django REST Framework · Material UI · Axios.
 
-**Databases:** MySQL · PostgreSQL · Microsoft SQL Server
+**Databases:** PostgreSQL · MySQL · Microsoft SQL Server.
 
-**Tools & Technologies:** Git & GitHub · REST APIs · Agile / Scrum · Postman · Vercel · Render  
+**Cloud & Infrastructure:** Vercel · Render · SendGrid · Firebase · Mapbox · AWS S3 · Linux.
+
+**Dev Tools & Version Control:** Git · GitHub · Postman · Asana · Vite · VS Code · DataGrip.
+
+**Methodologies:** Agile · Scrum.
 
 ## Engineering Approach
 
