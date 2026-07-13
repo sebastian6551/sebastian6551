@@ -1,6 +1,6 @@
 # About Me
 
-**Software Engineer** with a Full-Stack background from Colombia 🇨🇴, with nearly 3 years of experience building web applications using **React** and **JavaScript**, focused on creating responsive, user-centered interfaces.
+**Software Engineer** with a Full-Stack background from Colombia 🇨🇴, focused on creating responsive, user-centered interfaces.
 
 I have experience working across the full software development lifecycle, from implementing features and integrating REST APIs to improving usability and maintaining clean, scalable codebases.
 
